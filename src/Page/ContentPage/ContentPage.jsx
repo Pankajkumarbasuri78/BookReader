@@ -222,7 +222,7 @@ export const ContentPage = () => {
             {/* </Content> */}
             <RightContent>
                 <Image>
-                    <img src='https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2022/10/07/rabindra-1151289-1665084066.jpg?itok=MNVj8Ais' alt='profile-pic' height={350} width='350px'/>
+                    <img src='https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2022/10/07/rabindra-1151289-1665084066.jpg?itok=MNVj8Ais' alt='profile-pic' height={350} width='300px'/>
                 </Image>
             </RightContent>
             <Button1>
