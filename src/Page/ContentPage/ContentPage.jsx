@@ -170,7 +170,7 @@ const Button1 =styled.div(props=>({
         //display:'none',
         flexDirection:'row',
         button:{
-            width:'155px',
+            width:'135px',
         }
       }
 }))
