@@ -94,8 +94,12 @@ export const Poster = ({ post }) => {
             </UserData>
             
             <ImageContainer>
+            <Link to='/content'
+                          style={{textDecoration: "none", color: "inherit"}} 
+                          >
                 <p>{post.desc}</p>
                 <img src={post.img} alt="" />
+                </Link>
             </ImageContainer>
 
             <PosterInfo>
